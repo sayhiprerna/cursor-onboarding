@@ -37,12 +37,10 @@ This repository documents the setup process for Cursor IDE, AI extensions, and G
 
 ### 3. Git clone error
 Error received:
-```bash
 fatal: ... not valid: is this a git repository?
-```
 
 ### 4. Confusion between repository URL and webpage URL
-- Initially copied a GitHub URL containing an anchor (`#cursor-onboarding`) which caused cloning to fail.
+- Initially copied a GitHub URL containing an anchor (#cursor-onboarding) which caused cloning to fail.
 
 ---
 
@@ -56,7 +54,7 @@ fatal: ... not valid: is this a git repository?
 - Used the Cursor interface and Command Palette to understand extension access and authentication
 
 ### Git Clone Fix
-- Removed the extra `#cursor-onboarding` portion from the repository URL
+- Removed the extra #cursor-onboarding portion from the repository URL
 - Used the correct GitHub repository link
 
 ### Learning Resources Used
@@ -73,7 +71,8 @@ fatal: ... not valid: is this a git repository?
 - How Cursor uses VS Code-compatible extensions
 - Basic workflow of commit and push in Git
 - The write up format for the readme.file on markdown
-- Every problem comes with a solution, and I just need to put the problem in the search bar + not fearing finding out where what icon leads to
+- Every problem comes with a solution, and I just need to put the problem in the search bar
++ not fearing finding out where what icon leads to
 
 ---
 
